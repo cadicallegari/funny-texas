@@ -24,8 +24,12 @@ If you want to tests with same files you can download:
 
 
 
+## Results
+
+I made some tests with ruby too and ruby used further more memory
+
+
 ## TODO
 
-- [ ] Explan tests and results
-- [ ] Same tests in Golang
-- [ ] Same tests in ruby
+- [ ] Explan tests
+- [ ] Table results
