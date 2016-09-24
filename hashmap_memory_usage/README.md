@@ -1,4 +1,4 @@
-# Why python is cossuming all my memory?
+# Why python is consuming all my memory?
 
 
 I faced a memory consumption issue loading csv files to memory using dicts.
