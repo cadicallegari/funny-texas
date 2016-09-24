@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
-import pickle
+from memory_profiler import profile
+
 
 @profile
 def load_file_tojson(raw_file):

@@ -1,15 +1,9 @@
-# funny-python
-funny things faced working with python
+# funny-texas
+
+Why texas?
+
+["Went through to Texas, yeah Texas
+And we had some fun"](https://www.youtube.com/watch?v=v2AC41dglnM)
 
 
-## Running
-
-pip install -r requirements.txt
-
-python3 -m memory_profiler test.py
-
-## TODO
-
-- [ ] Explan tests and results
-- [ ] Same tests in ruby
-- [ ] Same tests in Golang
+*should be a funny joke ;)

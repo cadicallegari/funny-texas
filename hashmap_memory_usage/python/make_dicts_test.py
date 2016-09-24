@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import random
 import string
+from memory_profiler import profile
 
 _FIELD_NAMES = [
     "id",
