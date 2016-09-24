@@ -87,4 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
-resources/*.txt
+
+*/resources/*.txt
